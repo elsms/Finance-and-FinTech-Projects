@@ -1,17 +1,19 @@
 This preliminary exploratory analysis aims to identify which market to focus on for the *Investments* module project of my MSc at Henley Business School, University of Reading.
 
-## Overview
+# Overview
 The analysis compares the USA and Japanese markets using their main industry indeces (S&P 500 and Nikkei 225) and historical trends, key financial ratios and relevant macroeconomic indicators.
 
 
-## Data 
+# Data 
+The data used in the analysis was mostly retrieved from Bloomberg Terminal. 
 
+# Methodology 
 
-## Methodology 
+# Key findings 
 
-## Key findings 
+## Indexes Comparison: Nikkei 225 vs S&P 500
 
-### Indexes Comparison: Nikkei 225 vs S&P 500
+## Financial Analysis
 
 ### Volume & Market Cap 
 Japan’s market has shown consistently a higher trading volume from 2007 to 2025. During the Covid-19 period, the two markets‘ trading volumes nearly converged, but Japan started its recovery in 2022. This typically suggests that Japan’s market is more active and liquid. (PIC)

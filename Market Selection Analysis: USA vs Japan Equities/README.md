@@ -11,9 +11,9 @@ The analysis compares the USA and Japanese markets using their main industry ind
 
 ## Key findings 
 
-#### Indexes Comparison: Nikkei 225 vs S&P 500
+### Indexes Comparison: Nikkei 225 vs S&P 500
 
-#### Volume & Market Cap 
+### Volume & Market Cap 
 Japan’s market has shown consistently a higher trading volume from 2007 to 2025. During the Covid19 period, the two markets‘ trading volumes nearly converged, but Japan started its recovery in 2022. This typically suggests that Japan’s market is more active and liquid. (PIC)
 
 The USA, on the other hand, presents a higher total market capitalization. This indicates that USA-listed companies are more valuable overall, also reflected in the valuation difference between S&P 500 and Nikkei 225. Interestingly, Japan has a higher average market capitalization, suggesting that market value is more evenly distributed across Japanese companies. This indicates that, on average, each Japanese company is worth more than the 'typical' USA company. 

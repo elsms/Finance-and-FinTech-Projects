@@ -27,6 +27,8 @@ USA’s return on assets (ROA) has been increasing since 2020, whereas Japan’s
 
 Finally, the dividend payout ratio (DPR) has been fluctuating for both markets, possibly due to varying corporate policies or economic conditions.  
 
+### Investment
+
 
 
 

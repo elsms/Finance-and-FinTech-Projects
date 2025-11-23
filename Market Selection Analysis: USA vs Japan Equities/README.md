@@ -7,11 +7,15 @@ The analysis compares the USA and Japanese markets using their main industry ind
 # Data 
 The data used in the analysis was mostly retrieved from Bloomberg Terminal. 
 
+For this [part](https://github.com/elsms/Finance-and-FinTech-Projects/blob/main/Market%20Selection%20Analysis:%20USA%20vs%20Japan%20Equities/README.md#indexes-comparison-nikkei-225-vs-sp-500), quarterly values of the S&P 500 and Nikkei 225 from 30 September 1971 to 30 September 2025. 
+
+
 # Methodology 
 
 # Key findings 
 
 ## Indexes Comparison: Nikkei 225 vs S&P 500
+
 
 ## Financial Analysis
 
